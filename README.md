@@ -1,0 +1,2 @@
+# panorama
+use phone mode
