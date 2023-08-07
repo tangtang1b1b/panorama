@@ -8,7 +8,7 @@ renderer.setSize( boxElement.clientWidth, boxElement.clientHeight );
 boxElement.appendChild(renderer.domElement);
 
 const textureLoader = new THREE.TextureLoader();
-const texture = textureLoader.load('img/17_2.jpg');
+const texture = textureLoader.load('https://d2v4tz4zvhrua.cloudfront.net/manual_uploads/20230804/10.jpeg');
 
 
 const sphereGeometry = new THREE.SphereGeometry( 500, 60, 40 );
